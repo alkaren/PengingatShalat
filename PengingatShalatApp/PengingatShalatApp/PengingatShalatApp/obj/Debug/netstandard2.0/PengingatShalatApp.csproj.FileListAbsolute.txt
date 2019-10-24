@@ -1,0 +1,16 @@
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\bin\Debug\netstandard2.0\PengingatShalatApp.deps.json
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\bin\Debug\netstandard2.0\PengingatShalatApp.dll
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\bin\Debug\netstandard2.0\PengingatShalatApp.pdb
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\obj\Debug\netstandard2.0\PengingatShalatApp.csproj.CoreCompileInputs.cache
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\obj\Debug\netstandard2.0\PengingatShalatApp.AssemblyInfoInputs.cache
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\obj\Debug\netstandard2.0\PengingatShalatApp.AssemblyInfo.cs
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\obj\Debug\netstandard2.0\PengingatShalatApp.csproj.CopyComplete
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\obj\Debug\netstandard2.0\PengingatShalatApp.dll
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\obj\Debug\netstandard2.0\PengingatShalatApp.pdb
+C:\Users\alkar\source\repos\PengingatShalatApp\PengingatShalatApp\PengingatShalatApp\obj\Debug\netstandard2.0\PengingatShalatApp.csprojAssemblyReference.cache
